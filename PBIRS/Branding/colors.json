@@ -1,0 +1,91 @@
+{
+	"name":"Raleigh West's Power BI Report Server",
+	"version":"1.0",
+	"interface":{
+		"primary":"#fff",
+		"primaryAlt":"#444",
+		"primaryAlt2":"#555",
+		"primaryAlt3":"#666",
+		"primaryAlt4":"#777",
+		"primaryContrast":"#888",
+
+		"secondary":"#000",
+		"secondaryAlt":"#555",
+		"secondaryAlt2":"#666",
+		"secondaryAlt3":"#777",
+		"secondaryContrast":"#fff",
+
+		"neutralPrimary":"#fff",
+		"neutralPrimaryAlt":"#fff",
+		"neutralPrimaryAlt2":"#fff",
+		"neutralPrimaryAlt3":"#fff",
+		"neutralPrimaryContrast":"#000",
+
+		"neutralSecondary":"#fff",
+		"neutralSecondaryAlt":"#555",
+		"neutralSecondaryAlt2":"#",
+		"neutralSecondaryAlt3":"#777",
+		"neutralSecondaryContrast":"#888",
+
+		"neutralTertiary":"#fff",
+		"neutralTertiaryAlt":"#555",
+		"neutralTertiaryAlt2":"#666",
+		"neutralTertiaryAlt3":"#777",
+		"neutralTertiaryContrast":"#888",
+
+		"danger":"#f00",
+		"success":"#0f0",
+		"warning":"#880",
+		"info":"#00f",
+		"dangerContrast":"#fff",
+		"successContrast":"#fff",
+		"warningContrast":"#fff",
+		"infoContrast":"#fff",
+
+		"kpiGood":"#0f0",
+		"kpiBad":"#f00",
+		"kpiNeutral":"#888",
+		"kpiNone":"#000",
+		"kpiGoodContrast":"#fff",
+		"kpiBadContrast":"#fff",
+		"kpiNeutralContrast":"#fff",
+		"kpiNoneContrast":"#fff"
+	},
+	"theme":{
+		"dataPoints":[
+			"#0072c6",
+			"#f68c1f",
+			"#269657",
+			"#dd5900",
+			"#5b3573",
+			"#22bdef",
+			"#b4009e",
+			"#008274",
+			"#fdc336",
+			"#ea3c00",
+			"#00188f",
+			"#9f9f9f"
+		],
+
+		"good":"#0f0",
+		"bad":"#f00",
+		"neutral":"#888",
+		"none":"#000",
+
+		"background":"#fff",
+		"foreground":"#fff",
+		"mapBase":"#00aeef",
+		"panelBackground":"#f6f6f6",
+		"panelForeground":"#222",
+		"panelAccent":"#00aeef",
+		"tableAccent":"#00aeef",
+
+		"altBackground":"#f6f6f6",
+		"altForeground":"#000",
+		"altMapBase":"#f68c1f",
+		"altPanelBackground":"#235378",
+		"altPanelForeground":"#fff",
+		"altPanelAccent":"#fdc336",
+		"altTableAccent":"#fdc336"
+	}
+}
